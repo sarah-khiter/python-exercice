@@ -1,4 +1,8 @@
-Rapport sur le Projet de Scraping et d'Analyse des Données de Population des Pays
+Rapport sur le Projet de Scraping et d'Analyse des Données de Population des Pays:
+
+Contribution des Membres de l'Équipe:
+KHITER SARAH && LYESS BOUMRAH
+
 Contexte:
 
 L'objectif de ce projet était de développer un web scraper en Python pour collecter des données sur la population des pays à partir d'une page web listant les pays par population. La source de données utilisée était le site "Vikidia". Une fois les données collectées, nous avons procédé à une analyse de base pour examiner les tendances de la population mondiale.
